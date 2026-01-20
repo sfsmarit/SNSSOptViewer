@@ -1,0 +1,11 @@
+C:\Users\marit\Documents\cs\SNSSOptViewer\SNSSOptViewer\obj\Debug\SNSSOptViewer.csprojAssemblyReference.cache
+C:\Users\marit\Documents\cs\SNSSOptViewer\SNSSOptViewer\obj\Debug\SNSSOptViewer.Properties.Resources.resources
+C:\Users\marit\Documents\cs\SNSSOptViewer\SNSSOptViewer\obj\Debug\SNSSOptViewer.csproj.GenerateResource.cache
+C:\Users\marit\Documents\cs\SNSSOptViewer\SNSSOptViewer\obj\Debug\SNSSOptViewer.csproj.CoreCompileInputs.cache
+C:\Users\marit\Documents\cs\SNSSOptViewer\SNSSOptViewer\bin\Debug\SNSSOptViewer.exe.config
+C:\Users\marit\Documents\cs\SNSSOptViewer\SNSSOptViewer\bin\Debug\SNSSOptViewer.exe
+C:\Users\marit\Documents\cs\SNSSOptViewer\SNSSOptViewer\bin\Debug\SNSSOptViewer.pdb
+C:\Users\marit\Documents\cs\SNSSOptViewer\SNSSOptViewer\obj\Debug\SNSSOptViewer.exe
+C:\Users\marit\Documents\cs\SNSSOptViewer\SNSSOptViewer\obj\Debug\SNSSOptViewer.pdb
+C:\Users\marit\Documents\cs\SNSSOptViewer\SNSSOptViewer\obj\Debug\SNSSOptViewer.Form1.resources
+C:\Users\marit\Documents\cs\SNSSOptViewer\SNSSOptViewer\bin\Debug\cockatiel.ico
