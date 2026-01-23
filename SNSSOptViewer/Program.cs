@@ -1,22 +1,29 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System.IO;
 using System.Windows.Forms;
 
 namespace SNSSOptViewer
 {
     static class Program
     {
-        /// <summary>
-        /// アプリケーションのメイン エントリ ポイントです。
-        /// </summary>
         [STAThread]
-        static void Main()
+        static void Main(string[] args)
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+
+            string initialRoot = "";
+
+            if (args.Length > 0)
+            {
+                string p = args[0].Trim().Trim('"');
+                if (Directory.Exists(p))
+                {
+                    initialRoot = p;
+                }
+            }
+
+            Application.Run(new Form1(initialRoot));
         }
     }
 }
